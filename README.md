@@ -14,6 +14,7 @@ This is a 2-player console-based game where players take turns placing their mar
  - 2D Arrays (to represent the board)
 
 ▶️ How to Run
+
 Compile the program:
  - javac TicTacToe.java
 
